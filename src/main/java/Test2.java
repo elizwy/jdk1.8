@@ -20,5 +20,8 @@ public class Test2 {
                 System.out.println("test");
             }
         });
+
+        String s=null;
+        System.out.println(s.hashCode());
     }
 }
